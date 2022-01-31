@@ -1,3 +1,3 @@
 # DAT355-Lab1
 
-##How to get the files of the EMF project
+## I could not add the projects because I had a problem with the authentication in eclipse, so I add them like this, in a zip file
